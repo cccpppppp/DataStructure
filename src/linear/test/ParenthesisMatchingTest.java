@@ -58,6 +58,6 @@ public class ParenthesisMatchingTest {
         for (Integer integer : integers) {
             System.out.println(integer);
         }
-
+        
     }
 }
